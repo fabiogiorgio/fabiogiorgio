@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @fabiogiorgio
 - 👀 I’m interested in OO Programming
-- 🌱 I’m currently learning C# and Java.
-- 💞️ I’m looking to collaborate on a internship
 - 📫 How to reach me: fabiogiorgio@outlook.com
 
 <!---
